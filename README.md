@@ -26,6 +26,6 @@
 ### Alguns dos meus projetos:
 <br/>
 
-🌱 [Agrostatus - Colheita Inteligente](http://agrostatus.herokuapp.com/)
-🥠 [Biscoito da Sorte Interativo](https://biscoitodasorte.netlify.app/)
+- [Agrostatus - Colheita Inteligente](http://agrostatus.herokuapp.com/) 🌱  
+- [Biscoito da Sorte Interativo](https://biscoitodasorte.netlify.app/) 🥠  
     
