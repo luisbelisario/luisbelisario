@@ -1,4 +1,4 @@
-### Olá, eu sou Luis 😃
+### Hello, I´m Luis 😃
 <br/>
 
 <div>
@@ -11,7 +11,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://luisbls197.medium.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-santos197/)
 
-### Tecnologias que utilizo:
+### Tecnologies I use:
 
 <div> 
   <div style="display: inline_block"><br>
@@ -23,7 +23,7 @@
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-### Alguns dos meus projetos:
+### Some of my projects:
 <br/>
 
 - <a href="https://agrostatus.herokuapp.com/" target="_blank">Agrostatus - Colheita Inteligente </a> 🌱
