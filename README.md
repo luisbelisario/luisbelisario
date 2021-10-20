@@ -23,5 +23,3 @@
 
 - [Agrostatus - Colheita Inteligente](http://agrostatus.herokuapp.com/) 🌱  
 - [Biscoito da Sorte Interativo](https://biscoitodasorte.netlify.app/) 🥠  
-    
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
