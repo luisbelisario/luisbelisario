@@ -11,7 +11,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://luisbls197.medium.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-santos197/)
 
-### Tecnologies I use:
+### Technologies I use:
 
 <div> 
   <div style="display: inline_block"><br>
