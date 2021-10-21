@@ -24,7 +24,6 @@
 </div>
 
 ### Some of my projects:
-<br/>
 
 - <a href="https://agrostatus.herokuapp.com/" target="_blank">Agrostatus - Colheita Inteligente </a> 🌱
 - <a href="https://biscoitodasorte.netlify.app/" target="_blank">Biscoito da sorte interativo </a> 🥠 
