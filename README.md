@@ -26,4 +26,4 @@
 ### Some of my projects:
 
 - <a href="https://agrostatus.herokuapp.com/" target="blank">Agrostatus - Colheita Inteligente </a> 🌱
-- <a href="https://biscoitodasorte.netlify.app/" target="blank">Biscoito da sorte interativo </a> 🥠 
+- <a href="https://filmeflix.netlify.app/" target="blank">FilmeFlix - Biblioteca de Filmes </a> 🍿
