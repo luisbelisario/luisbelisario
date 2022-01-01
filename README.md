@@ -25,5 +25,9 @@
 
 ### Some of my projects:
 
-- <a href="https://agrostatus.herokuapp.com/" target="blank">Agrostatus - Colheita Inteligente </a> 🌱
-- <a href="https://filmeflix.netlify.app/" target="blank">FilmeFlix - Biblioteca de Filmes </a> 🍿
+- Project: <a href="https://agrostatus.herokuapp.com/" target="blank">Agrostatus - Colheita Inteligente </a>
+- Repository: <a href="https://github.com/luisbelisario/agrostatus" target="blank"></a>
+- Project: <a href="https://filmeflix.netlify.app/" target="blank">FilmeFlix - Biblioteca de Filmes </a>
+- Repository: <a href=https://github.com/luisbelisario/filmeflix target="blank"></a>
+- Project: <a href=http://fraternitude.herokuapp.com/ target="blank">Fraternitude - Fraternidade em Movimento </a>
+- Repository: <a href="https://github.com/Projeto-ONGS/fraternitude" target="blank"></a>  
