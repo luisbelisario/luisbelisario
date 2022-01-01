@@ -27,4 +27,4 @@
 
 - Agrostatus - Colheita Inteligente | <a href="https://agrostatus.herokuapp.com/" target="blank">Project</a> - <a href="https://github.com/luisbelisario/agrostatus" target="blank">GitHub Repository</a>
 - FilmeFlix - Biblioteca de Filmes | <a href="https://filmeflix.netlify.app/" target="blank">Project</a> - <a href=https://github.com/luisbelisario/filmeflix target="blank">GitHub Repository</a>
-- Fraternitude - Fraternidade em Movimento <a href=http://fraternitude.herokuapp.com/ target="blank">Project</a> <a href="https://github.com/Projeto-ONGS/fraternitude" target="blank">GitHub Repository</a>  
+- Fraternitude - Fraternidade em Movimento | <a href=http://fraternitude.herokuapp.com/ target="blank">Project</a> - <a href="https://github.com/Projeto-ONGS/fraternitude" target="blank">GitHub Repository</a>  
