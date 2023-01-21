@@ -1,10 +1,5 @@
 ### Hello, I´m Luis 😃
 <br/>
-
-<div>
-  <a href="https://github.com/luisbelisario">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisbelisario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
 <br/>
   
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://luisbls197.medium.com/)
