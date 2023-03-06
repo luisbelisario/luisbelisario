@@ -12,11 +12,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgres/postgres-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
-
-### Some of my projects:
-
-- Agrostatus - Colheita Inteligente | <a href="https://agrostatus.herokuapp.com/" target="blank">Project</a> - <a href="https://github.com/luisbelisario/agrostatus" target="blank">GitHub Repository</a>
-- FilmeFlix - Biblioteca de Filmes | <a href="https://filmeflix.netlify.app/" target="blank">Project</a> - <a href=https://github.com/luisbelisario/filmeflix target="blank">GitHub Repository</a>
-- Fraternitude - Fraternidade em Movimento | <a href=http://fraternitude.herokuapp.com/ target="blank">Project</a> - <a href="https://github.com/Projeto-ONGS/fraternitude" target="blank">GitHub Repository</a>  
