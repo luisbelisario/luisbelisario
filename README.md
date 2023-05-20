@@ -11,7 +11,7 @@
 
 https://luisbelisario.com/
 
-### Technologies I use:
+### Technologies I use
 
 <div> 
   <div style="display: inline_block"><br>
