@@ -1,6 +1,8 @@
 ### Hello, I´m Luis 😃
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisbelisario&show_icons=true&theme=onedark)
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisbelisario&show_icons=true&theme=dark)
+
+### My Social Media 📱
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-santos197/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://luisbls197.medium.com/)
@@ -22,5 +24,3 @@ https://luisbelisario.com/
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
-<br/>
