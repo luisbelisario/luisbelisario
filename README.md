@@ -9,6 +9,22 @@
 
 https://luisbelisario.com/
 
+### My recent activities
+
+<div align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=luisbelisario&theme=react&hide_border=true&show_icons=true&custom_title=Contributions%20Graphic" />
+</div>
+<br/><br/>
+<div>
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luisbelisario&theme=react&hide_border=true" alt="luisbelisario" />
+  
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisbelisario&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true&custom_title=Most%20used%20languages" alt="luisbelisario" />
+  <br/>
+  <br/>
+<div align="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisbelisario&show_icons=true&theme=react&locale=en&hide_border=true&custom_title=GitHub%20Status" alt="luisbelisario" />
+</div>
+
 ### Technologies I use
 
 <div> 
