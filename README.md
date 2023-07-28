@@ -18,7 +18,7 @@ https://luisbelisario.com/
   <br/>
   <br/>
 </div>
-<div align="center">
+<div align="justify">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luisbelisario&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true&custom_title=Most%20used%20languages" alt="luisbelisario" />
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luisbelisario&show_icons=true&theme=react&locale=en&hide_border=true&custom_title=GitHub%20status" alt="luisbelisario" />
 </div>
